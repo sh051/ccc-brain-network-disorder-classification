@@ -1,0 +1,22 @@
+# Large source datasets and intermediate model inputs
+data/
+data-*/
+data_timeseries/
+remaining/
+
+# Derived outputs (the curated proof-of-work figures are force-added separately)
+results/
+
+# Python and notebook artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+venv/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
