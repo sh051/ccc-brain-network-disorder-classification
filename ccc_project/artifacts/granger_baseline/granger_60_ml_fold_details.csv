@@ -1,0 +1,121 @@
+config_desc,lag,threshold,classifier,fold,auc,acc
+"Lag-1 (p=1), Top 15% Edges (Exact CCC Match)",1,0.15,"Logistic Regression (C=1.0, L2) [GridSearch Match]",1,0.5555555555555556,0.5833333333333334
+"Lag-1 (p=1), Top 15% Edges (Exact CCC Match)",1,0.15,"Logistic Regression (C=1.0, L2) [GridSearch Match]",2,0.47222222222222227,0.5
+"Lag-1 (p=1), Top 15% Edges (Exact CCC Match)",1,0.15,"Logistic Regression (C=1.0, L2) [GridSearch Match]",3,0.5,0.5
+"Lag-1 (p=1), Top 15% Edges (Exact CCC Match)",1,0.15,"Logistic Regression (C=1.0, L2) [GridSearch Match]",4,0.36111111111111105,0.3333333333333333
+"Lag-1 (p=1), Top 15% Edges (Exact CCC Match)",1,0.15,"Logistic Regression (C=1.0, L2) [GridSearch Match]",5,0.5277777777777778,0.5
+"Lag-1 (p=1), Top 15% Edges (Exact CCC Match)",1,0.15,"Logistic Regression (C=0.1, L2)",1,0.5555555555555556,0.5833333333333334
+"Lag-1 (p=1), Top 15% Edges (Exact CCC Match)",1,0.15,"Logistic Regression (C=0.1, L2)",2,0.47222222222222227,0.5
+"Lag-1 (p=1), Top 15% Edges (Exact CCC Match)",1,0.15,"Logistic Regression (C=0.1, L2)",3,0.5,0.5
+"Lag-1 (p=1), Top 15% Edges (Exact CCC Match)",1,0.15,"Logistic Regression (C=0.1, L2)",4,0.36111111111111105,0.3333333333333333
+"Lag-1 (p=1), Top 15% Edges (Exact CCC Match)",1,0.15,"Logistic Regression (C=0.1, L2)",5,0.5277777777777778,0.5
+"Lag-1 (p=1), Top 15% Edges (Exact CCC Match)",1,0.15,"Logistic Regression (C=0.01, L2)",1,0.5555555555555556,0.5833333333333334
+"Lag-1 (p=1), Top 15% Edges (Exact CCC Match)",1,0.15,"Logistic Regression (C=0.01, L2)",2,0.47222222222222227,0.5
+"Lag-1 (p=1), Top 15% Edges (Exact CCC Match)",1,0.15,"Logistic Regression (C=0.01, L2)",3,0.5,0.5
+"Lag-1 (p=1), Top 15% Edges (Exact CCC Match)",1,0.15,"Logistic Regression (C=0.01, L2)",4,0.3888888888888889,0.3333333333333333
+"Lag-1 (p=1), Top 15% Edges (Exact CCC Match)",1,0.15,"Logistic Regression (C=0.01, L2)",5,0.5277777777777778,0.5
+"Lag-1 (p=1), Top 15% Edges (Exact CCC Match)",1,0.15,Linear SVM (C=0.1),1,0.4444444444444444,0.3333333333333333
+"Lag-1 (p=1), Top 15% Edges (Exact CCC Match)",1,0.15,Linear SVM (C=0.1),2,0.5277777777777778,0.5
+"Lag-1 (p=1), Top 15% Edges (Exact CCC Match)",1,0.15,Linear SVM (C=0.1),3,0.4722222222222222,0.5
+"Lag-1 (p=1), Top 15% Edges (Exact CCC Match)",1,0.15,Linear SVM (C=0.1),4,0.6388888888888888,0.6666666666666666
+"Lag-1 (p=1), Top 15% Edges (Exact CCC Match)",1,0.15,Linear SVM (C=0.1),5,0.5,0.5
+"Lag-1 (p=1), Top 15% Edges (Exact CCC Match)",1,0.15,Ridge Classifier (alpha=100.0),1,0.5555555555555556,0.5833333333333334
+"Lag-1 (p=1), Top 15% Edges (Exact CCC Match)",1,0.15,Ridge Classifier (alpha=100.0),2,0.47222222222222227,0.5
+"Lag-1 (p=1), Top 15% Edges (Exact CCC Match)",1,0.15,Ridge Classifier (alpha=100.0),3,0.5277777777777778,0.5
+"Lag-1 (p=1), Top 15% Edges (Exact CCC Match)",1,0.15,Ridge Classifier (alpha=100.0),4,0.36111111111111105,0.3333333333333333
+"Lag-1 (p=1), Top 15% Edges (Exact CCC Match)",1,0.15,Ridge Classifier (alpha=100.0),5,0.5,0.5
+"Lag-1 (p=1), Top 15% Edges (Exact CCC Match)",1,0.15,Random Forest (n=100),1,0.5,0.5
+"Lag-1 (p=1), Top 15% Edges (Exact CCC Match)",1,0.15,Random Forest (n=100),2,0.4722222222222222,0.3333333333333333
+"Lag-1 (p=1), Top 15% Edges (Exact CCC Match)",1,0.15,Random Forest (n=100),3,0.1111111111111111,0.16666666666666666
+"Lag-1 (p=1), Top 15% Edges (Exact CCC Match)",1,0.15,Random Forest (n=100),4,0.24999999999999994,0.4166666666666667
+"Lag-1 (p=1), Top 15% Edges (Exact CCC Match)",1,0.15,Random Forest (n=100),5,0.7222222222222222,0.6666666666666666
+"Lag-1 (p=1), Unthresholded Full Edges",1,,"Logistic Regression (C=1.0, L2) [GridSearch Match]",1,0.5833333333333334,0.6666666666666666
+"Lag-1 (p=1), Unthresholded Full Edges",1,,"Logistic Regression (C=1.0, L2) [GridSearch Match]",2,0.4444444444444445,0.5
+"Lag-1 (p=1), Unthresholded Full Edges",1,,"Logistic Regression (C=1.0, L2) [GridSearch Match]",3,0.5277777777777777,0.5
+"Lag-1 (p=1), Unthresholded Full Edges",1,,"Logistic Regression (C=1.0, L2) [GridSearch Match]",4,0.36111111111111105,0.3333333333333333
+"Lag-1 (p=1), Unthresholded Full Edges",1,,"Logistic Regression (C=1.0, L2) [GridSearch Match]",5,0.5833333333333334,0.5
+"Lag-1 (p=1), Unthresholded Full Edges",1,,"Logistic Regression (C=0.1, L2)",1,0.5555555555555556,0.6666666666666666
+"Lag-1 (p=1), Unthresholded Full Edges",1,,"Logistic Regression (C=0.1, L2)",2,0.4444444444444445,0.5
+"Lag-1 (p=1), Unthresholded Full Edges",1,,"Logistic Regression (C=0.1, L2)",3,0.5277777777777777,0.5
+"Lag-1 (p=1), Unthresholded Full Edges",1,,"Logistic Regression (C=0.1, L2)",4,0.36111111111111105,0.3333333333333333
+"Lag-1 (p=1), Unthresholded Full Edges",1,,"Logistic Regression (C=0.1, L2)",5,0.5833333333333334,0.5
+"Lag-1 (p=1), Unthresholded Full Edges",1,,"Logistic Regression (C=0.01, L2)",1,0.5555555555555556,0.6666666666666666
+"Lag-1 (p=1), Unthresholded Full Edges",1,,"Logistic Regression (C=0.01, L2)",2,0.4444444444444445,0.5
+"Lag-1 (p=1), Unthresholded Full Edges",1,,"Logistic Regression (C=0.01, L2)",3,0.5277777777777777,0.5
+"Lag-1 (p=1), Unthresholded Full Edges",1,,"Logistic Regression (C=0.01, L2)",4,0.36111111111111105,0.3333333333333333
+"Lag-1 (p=1), Unthresholded Full Edges",1,,"Logistic Regression (C=0.01, L2)",5,0.5833333333333334,0.5
+"Lag-1 (p=1), Unthresholded Full Edges",1,,Linear SVM (C=0.1),1,0.41666666666666663,0.3333333333333333
+"Lag-1 (p=1), Unthresholded Full Edges",1,,Linear SVM (C=0.1),2,0.5555555555555556,0.5
+"Lag-1 (p=1), Unthresholded Full Edges",1,,Linear SVM (C=0.1),3,0.5,0.5
+"Lag-1 (p=1), Unthresholded Full Edges",1,,Linear SVM (C=0.1),4,0.6388888888888888,0.6666666666666666
+"Lag-1 (p=1), Unthresholded Full Edges",1,,Linear SVM (C=0.1),5,0.4166666666666667,0.5
+"Lag-1 (p=1), Unthresholded Full Edges",1,,Ridge Classifier (alpha=100.0),1,0.5833333333333334,0.6666666666666666
+"Lag-1 (p=1), Unthresholded Full Edges",1,,Ridge Classifier (alpha=100.0),2,0.4444444444444445,0.5
+"Lag-1 (p=1), Unthresholded Full Edges",1,,Ridge Classifier (alpha=100.0),3,0.5,0.5
+"Lag-1 (p=1), Unthresholded Full Edges",1,,Ridge Classifier (alpha=100.0),4,0.36111111111111105,0.3333333333333333
+"Lag-1 (p=1), Unthresholded Full Edges",1,,Ridge Classifier (alpha=100.0),5,0.5833333333333334,0.5
+"Lag-1 (p=1), Unthresholded Full Edges",1,,Random Forest (n=100),1,0.625,0.4166666666666667
+"Lag-1 (p=1), Unthresholded Full Edges",1,,Random Forest (n=100),2,0.5555555555555556,0.5
+"Lag-1 (p=1), Unthresholded Full Edges",1,,Random Forest (n=100),3,0.3888888888888889,0.3333333333333333
+"Lag-1 (p=1), Unthresholded Full Edges",1,,Random Forest (n=100),4,0.4861111111111111,0.5
+"Lag-1 (p=1), Unthresholded Full Edges",1,,Random Forest (n=100),5,0.6805555555555556,0.5833333333333334
+"Lag-2 (p=2), Top 15% Edges",2,0.15,"Logistic Regression (C=1.0, L2) [GridSearch Match]",1,0.6944444444444445,0.6666666666666666
+"Lag-2 (p=2), Top 15% Edges",2,0.15,"Logistic Regression (C=1.0, L2) [GridSearch Match]",2,0.38888888888888895,0.4166666666666667
+"Lag-2 (p=2), Top 15% Edges",2,0.15,"Logistic Regression (C=1.0, L2) [GridSearch Match]",3,0.6111111111111112,0.5833333333333334
+"Lag-2 (p=2), Top 15% Edges",2,0.15,"Logistic Regression (C=1.0, L2) [GridSearch Match]",4,0.7777777777777778,0.5
+"Lag-2 (p=2), Top 15% Edges",2,0.15,"Logistic Regression (C=1.0, L2) [GridSearch Match]",5,0.49999999999999994,0.5833333333333334
+"Lag-2 (p=2), Top 15% Edges",2,0.15,"Logistic Regression (C=0.1, L2)",1,0.6944444444444445,0.6666666666666666
+"Lag-2 (p=2), Top 15% Edges",2,0.15,"Logistic Regression (C=0.1, L2)",2,0.38888888888888895,0.4166666666666667
+"Lag-2 (p=2), Top 15% Edges",2,0.15,"Logistic Regression (C=0.1, L2)",3,0.6111111111111112,0.5833333333333334
+"Lag-2 (p=2), Top 15% Edges",2,0.15,"Logistic Regression (C=0.1, L2)",4,0.7777777777777778,0.5
+"Lag-2 (p=2), Top 15% Edges",2,0.15,"Logistic Regression (C=0.1, L2)",5,0.49999999999999994,0.5833333333333334
+"Lag-2 (p=2), Top 15% Edges",2,0.15,"Logistic Regression (C=0.01, L2)",1,0.6944444444444445,0.6666666666666666
+"Lag-2 (p=2), Top 15% Edges",2,0.15,"Logistic Regression (C=0.01, L2)",2,0.38888888888888895,0.4166666666666667
+"Lag-2 (p=2), Top 15% Edges",2,0.15,"Logistic Regression (C=0.01, L2)",3,0.6111111111111112,0.5833333333333334
+"Lag-2 (p=2), Top 15% Edges",2,0.15,"Logistic Regression (C=0.01, L2)",4,0.7777777777777778,0.5
+"Lag-2 (p=2), Top 15% Edges",2,0.15,"Logistic Regression (C=0.01, L2)",5,0.49999999999999994,0.5833333333333334
+"Lag-2 (p=2), Top 15% Edges",2,0.15,Linear SVM (C=0.1),1,0.3055555555555556,0.3333333333333333
+"Lag-2 (p=2), Top 15% Edges",2,0.15,Linear SVM (C=0.1),2,0.6111111111111112,0.5833333333333334
+"Lag-2 (p=2), Top 15% Edges",2,0.15,Linear SVM (C=0.1),3,0.3611111111111111,0.4166666666666667
+"Lag-2 (p=2), Top 15% Edges",2,0.15,Linear SVM (C=0.1),4,0.20833333333333331,0.4166666666666667
+"Lag-2 (p=2), Top 15% Edges",2,0.15,Linear SVM (C=0.1),5,0.5,0.4166666666666667
+"Lag-2 (p=2), Top 15% Edges",2,0.15,Ridge Classifier (alpha=100.0),1,0.6944444444444445,0.6666666666666666
+"Lag-2 (p=2), Top 15% Edges",2,0.15,Ridge Classifier (alpha=100.0),2,0.38888888888888895,0.4166666666666667
+"Lag-2 (p=2), Top 15% Edges",2,0.15,Ridge Classifier (alpha=100.0),3,0.638888888888889,0.5833333333333334
+"Lag-2 (p=2), Top 15% Edges",2,0.15,Ridge Classifier (alpha=100.0),4,0.7777777777777778,0.5
+"Lag-2 (p=2), Top 15% Edges",2,0.15,Ridge Classifier (alpha=100.0),5,0.49999999999999994,0.5833333333333334
+"Lag-2 (p=2), Top 15% Edges",2,0.15,Random Forest (n=100),1,0.4027777777777778,0.4166666666666667
+"Lag-2 (p=2), Top 15% Edges",2,0.15,Random Forest (n=100),2,0.25,0.4166666666666667
+"Lag-2 (p=2), Top 15% Edges",2,0.15,Random Forest (n=100),3,0.4861111111111111,0.5
+"Lag-2 (p=2), Top 15% Edges",2,0.15,Random Forest (n=100),4,0.4027777777777778,0.5
+"Lag-2 (p=2), Top 15% Edges",2,0.15,Random Forest (n=100),5,0.6666666666666667,0.5833333333333334
+"Lag-2 (p=2), Unthresholded Full Edges",2,,"Logistic Regression (C=1.0, L2) [GridSearch Match]",1,0.6944444444444444,0.75
+"Lag-2 (p=2), Unthresholded Full Edges",2,,"Logistic Regression (C=1.0, L2) [GridSearch Match]",2,0.41666666666666674,0.3333333333333333
+"Lag-2 (p=2), Unthresholded Full Edges",2,,"Logistic Regression (C=1.0, L2) [GridSearch Match]",3,0.5277777777777777,0.6666666666666666
+"Lag-2 (p=2), Unthresholded Full Edges",2,,"Logistic Regression (C=1.0, L2) [GridSearch Match]",4,0.8055555555555555,0.6666666666666666
+"Lag-2 (p=2), Unthresholded Full Edges",2,,"Logistic Regression (C=1.0, L2) [GridSearch Match]",5,0.41666666666666663,0.5833333333333334
+"Lag-2 (p=2), Unthresholded Full Edges",2,,"Logistic Regression (C=0.1, L2)",1,0.6944444444444444,0.75
+"Lag-2 (p=2), Unthresholded Full Edges",2,,"Logistic Regression (C=0.1, L2)",2,0.41666666666666674,0.3333333333333333
+"Lag-2 (p=2), Unthresholded Full Edges",2,,"Logistic Regression (C=0.1, L2)",3,0.5277777777777777,0.6666666666666666
+"Lag-2 (p=2), Unthresholded Full Edges",2,,"Logistic Regression (C=0.1, L2)",4,0.8333333333333334,0.6666666666666666
+"Lag-2 (p=2), Unthresholded Full Edges",2,,"Logistic Regression (C=0.1, L2)",5,0.41666666666666663,0.5833333333333334
+"Lag-2 (p=2), Unthresholded Full Edges",2,,"Logistic Regression (C=0.01, L2)",1,0.6944444444444444,0.75
+"Lag-2 (p=2), Unthresholded Full Edges",2,,"Logistic Regression (C=0.01, L2)",2,0.41666666666666674,0.3333333333333333
+"Lag-2 (p=2), Unthresholded Full Edges",2,,"Logistic Regression (C=0.01, L2)",3,0.5277777777777777,0.6666666666666666
+"Lag-2 (p=2), Unthresholded Full Edges",2,,"Logistic Regression (C=0.01, L2)",4,0.8055555555555557,0.6666666666666666
+"Lag-2 (p=2), Unthresholded Full Edges",2,,"Logistic Regression (C=0.01, L2)",5,0.41666666666666663,0.5833333333333334
+"Lag-2 (p=2), Unthresholded Full Edges",2,,Linear SVM (C=0.1),1,0.3055555555555556,0.25
+"Lag-2 (p=2), Unthresholded Full Edges",2,,Linear SVM (C=0.1),2,0.5833333333333334,0.6666666666666666
+"Lag-2 (p=2), Unthresholded Full Edges",2,,Linear SVM (C=0.1),3,0.47222222222222227,0.4166666666666667
+"Lag-2 (p=2), Unthresholded Full Edges",2,,Linear SVM (C=0.1),4,0.19444444444444445,0.4166666666666667
+"Lag-2 (p=2), Unthresholded Full Edges",2,,Linear SVM (C=0.1),5,0.5833333333333334,0.4166666666666667
+"Lag-2 (p=2), Unthresholded Full Edges",2,,Ridge Classifier (alpha=100.0),1,0.6944444444444444,0.75
+"Lag-2 (p=2), Unthresholded Full Edges",2,,Ridge Classifier (alpha=100.0),2,0.41666666666666674,0.3333333333333333
+"Lag-2 (p=2), Unthresholded Full Edges",2,,Ridge Classifier (alpha=100.0),3,0.5277777777777777,0.6666666666666666
+"Lag-2 (p=2), Unthresholded Full Edges",2,,Ridge Classifier (alpha=100.0),4,0.8055555555555555,0.6666666666666666
+"Lag-2 (p=2), Unthresholded Full Edges",2,,Ridge Classifier (alpha=100.0),5,0.41666666666666663,0.5833333333333334
+"Lag-2 (p=2), Unthresholded Full Edges",2,,Random Forest (n=100),1,0.7916666666666667,0.6666666666666666
+"Lag-2 (p=2), Unthresholded Full Edges",2,,Random Forest (n=100),2,0.5,0.3333333333333333
+"Lag-2 (p=2), Unthresholded Full Edges",2,,Random Forest (n=100),3,0.2777777777777778,0.5
+"Lag-2 (p=2), Unthresholded Full Edges",2,,Random Forest (n=100),4,0.3055555555555556,0.3333333333333333
+"Lag-2 (p=2), Unthresholded Full Edges",2,,Random Forest (n=100),5,0.4722222222222222,0.5833333333333334
